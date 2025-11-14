@@ -11,8 +11,8 @@ import os
 # ------------------------------
 # Page Config
 # ------------------------------
-st.set_page_config(page_title="Smart Healthcare Dashboard", layout="wide")
-st.title("🏥 Smart Healthcare Survey - Survival Prediction Dashboard")
+st.set_page_config(page_title="Smart Survey Analysis", layout="wide")
+st.title("🏥 Smart Survey Analysis platform")
 st.markdown("""
 This dashboard provides insights based on hospital survey data.
 Use the filters below to explore patient demographics, test outcomes, and survival predictions.
